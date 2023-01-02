@@ -1,1 +1,0 @@
-# UniCal is a calendar created for university student by university students
